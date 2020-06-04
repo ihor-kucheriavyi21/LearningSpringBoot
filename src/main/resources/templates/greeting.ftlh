@@ -2,5 +2,5 @@
 
 <@c.page>
     <h5> Hello, huest</h5>
-    <div>Clome twitter</div>
+    <div>Clone twitter</div>
 </@c.page>
